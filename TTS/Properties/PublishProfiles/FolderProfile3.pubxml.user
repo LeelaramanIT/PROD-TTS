@@ -1,0 +1,1090 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\kannan\source\repos\SIPLPROJECTS\publish</_PublishTargetUrl>
+    <History>True|2024-06-19T03:32:19.9666670Z||;False|2024-06-18T13:35:51.8399061+05:30||;True|2024-05-24T17:14:58.6659601+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ClosedXML.dll">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="bin/ClosedXML.pdb">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="bin/ExcelNumberFormat.dll">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="bin/Ionic.Zip.dll">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 20:03:36</publishTime>
+    </File>
+    <File Include="bin/TTS.dll">
+      <publishTime>06/19/2024 09:02:18</publishTime>
+    </File>
+    <File Include="bin/TTS.pdb">
+      <publishTime>06/19/2024 09:02:18</publishTime>
+    </File>
+    <File Include="BindRecords.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cargomanagement/containerdetail.ascx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cargomanagement/containerorderentry.ascx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cargomanagement/editmasterdetails.ascx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cargomanagement/loadplanning.ascx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cargomanagement/revisecargoentry.ascx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cargomanagement/ThreeDRendering.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cargomanagement/tyredimensionmaster.ascx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cargo_management.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="changePassword.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimadditionaldetails.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="ClaimCancel.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimclosed.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimcreditapprove.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="ClaimFreeReplacement.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimimageadd.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimLibraryEntry.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimLibraryView.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimmovetocrm.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="claimopinion.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="claimpopup.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="claimQcAnalysis.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimregister1.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="claimreview.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="ClaimServiceComplaint.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="claimsettle.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="claimstatustrack.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="claimstencilassign.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="Closedxml/ClosedXML.dll">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Closedxml/ClosedXML.pdb">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Closedxml/DocumentFormat.OpenXml.dll">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Closedxml/ExcelNumberFormat.dll">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cotscommon.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="cotscustdomestic.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="CotsCustomerCreditPeriod.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CotsCustomerHoldRelease.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cotscustwisetrack.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="cotsdashboard.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="cotsdispatchedlist.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="CotsDispatchedReturn.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cotsdomesticaddress.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="cotsdomesticmaillist.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="cotsftinvoice.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="cotsftregister.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="Cotsfttordertrrack.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cotsfttrack.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsgstzenapi.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsInvoicePriceReport.aspx">
+      <publishTime>06/04/2024 10:39:14</publishTime>
+    </File>
+    <File Include="cotsmailtemplate.htm">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="CotsManualOrderIncomplete.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CotsManualOrderPrepare.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cotsmanualorderprepare1.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsorderplantassign.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsorderprocess.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsorderprocess2.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsorderrevise.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsordersplit.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotspaymentupdate.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotspdiinspect.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="CotsPriceApproval.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cotspricechange.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="CotsPriceCreate.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CotsReviseCancel1.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CotsReviseRequest.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CotsReviseResponse.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="cotssubstitution.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotstrackstatus.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsusercreate.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="cotsuserreassign.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="Cots_ManualOrderPrepare_01.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="currentdebosters.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="custactivestatus.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="CustApprovedList.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CustomerDetails.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CustomerWiseSalesAnalysis.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CustomerWiseSalesReportMatrix.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="CustPriceMaster.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="DcPrepartion.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="dispatchedstencil.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="earmark.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="earmarkanalysis.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="earmarkstencillist.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/assignentry.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/ebiddispatchedorder.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/ebidordertracking.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/enquirycancel.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/enquiryprepare.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/enquirypreparedlist.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/enquiryquotedlist.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/masterentry.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebidpurchase/preparepurchaseorder.ascx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ebid_purchase.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="editCustDetails.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="emailalert.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ExpCustAddressCreation.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="expdeptapproval.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expdespatchreview.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expinvoice.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ExpLogistic_Entry.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="expordercancel.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exportcotsaddress.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exportcotsproduction.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exportcotsproforma.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exportcotstrackstatus.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exportdocuments.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exportmanual1.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exportmanual2.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exportmanual5.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ExportOrderPlantAssign.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="ExportSalesDataReport.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="ExportSalesDataReview.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Export_GradeApproval.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="exppc_reject_revoke.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expPpcEarmark.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ExpPPC_Earmark_Revoke.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="ExpPPC_Revision.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="expppc_stencilapproval.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ExpPPC_Verification.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="ExpPPC_Verification1.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="exppricechange.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expprodapprove.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ExpReviewMeeting.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="expscancontainer.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscanincomplete.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscaninspectionreport.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscanlankapdi.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscannotload.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscanpdi.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscanpdidatashow.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscanpdi_1.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscanreview.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="expscanrevise.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ExpUserCreation.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Exp_Documents.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Exp_OrderModifyPlantQty.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Exp_OrderRevise.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="exp_pricecreate.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="exp_revisemasterdata.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="Exp_Revise_ReqRes.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Exp_ScanCombiTyresSend.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="filterwiserequest.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="FilterWiseResponse.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="GetPopupRecords.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="images/background-trans.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/blank.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/button_back.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/cancel.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/close.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/collapse.gif">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/Download.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/dropdown_img.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/Email4.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/hide.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/icon_az.gif">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/icon_za.gif">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imagexls.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgLogo/logo_avatar.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgLogo/logo_numa.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgLogo/logo_solo.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgLogo/logo_sunbear.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgLogo/logo_talon.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgLogo/logo_tantor.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgmail/confirm.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgmail/delivery.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgmail/dispatch.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgmail/process.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/imgmail/quality.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/img_chk.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/img_unchk.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/loading.gif">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/loginbg.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/next.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/Prepare3.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/prev.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/progress.gif">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/tvs_suntws.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/TyreOrient1.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/TyreOrient2.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/TyreOrient3.jpg">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images/Upload.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/animated-overlay.gif">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/chosen-sprite.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_glass_45_0078ae_1x400.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-icons_0078ae_256x240.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-icons_222222_256x240.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-icons_2e83ff_256x240.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-icons_454545_256x240.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-icons_888888_256x240.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-icons_cd0a0a_256x240.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="images1/ui-icons_e0fdff_256x240.png">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="liquidationreport.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="logout.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="makemodelentry.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="makemodelsearch.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="master.Master">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="masterdataposition.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="movetoexistcustomer.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="OrderPositionDetailsEntry.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="OrderPositionDetailsViewAll.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="orderpositiondomestic.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="orderpositionentry.aspx">
+      <publishTime>06/07/2024 16:56:40</publishTime>
+    </File>
+    <File Include="orderpositionshow.aspx">
+      <publishTime>06/17/2024 11:56:03</publishTime>
+    </File>
+    <File Include="PreparePriceSheet.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="PreparePriceSheet1.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="PriceSheetCompare.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="PriceSheetCreation.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="ProcessIdCreateRim.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="processidrequest.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="processidrimsizeassign.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospectassign.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospectdatabuild.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospectdelete.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospecthistory.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospectpopup.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospectreassign.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospectreview.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospectreviewdomestic.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="prospectstatus.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="quotecustdetailsentry.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="quotediscount.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="quotegradewiseprepare.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="quoteincomplete.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="quoteorderprepare.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="quotestatus.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="RatesMaster.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="ratesmaster_customer.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ratesmaster_v1.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="ReportsPriceSheet.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="requirementAnalysis.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="RequirementTicketResponse.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="RequirementTicketRise.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="RimPricePrepare.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="rimstockdelete.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="roomreservations.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="roomreservemaster.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="s3Dashboard.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="s3Entry.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="s3NetworkCount.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="Scripts/cotsScript.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/dailyproduction.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/datemonthyear.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/grid.locale-en.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/gridviewScroll.min.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/gridviewScroll1.min.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/itemEntryPob.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/itemEntrySolid.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.11.0.min.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui181.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/jquery.jqGrid.min.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/jquery.lazyload.min.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/jquery.min.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/jquerymin182.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/jqueryui191.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/lightbox.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/menuScript.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/MultiSelect.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/OrbitControls.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/prospectScript.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/ratesMaster.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/scotsdomestic.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/selectScript.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/slideshowmin.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/three.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/TinyboxScript.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/totvalscript.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/ttsJS.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/uploader.swf">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Scripts/uploadify.js">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="SessionExp.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="stencilnosearch.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="stockdashboard.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="stockdump.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="StockFilteredReport_v1.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="stockinward.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="stocklocation.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="StockMatrixReport.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="StockMatrixReview.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="StockOrderPrepare.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Stockorderrevise.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="stockorder_ppc.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="StockReturn.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="StockReturnAF.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="StockReturnFg.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="StockReturnQc.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="StockReturnReview.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="stockrim.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="Styles/datemonthyear.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/ebidpurchasestyles.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/GridviewScroll.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/lightbox.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/menuStyle1.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/MultiSelect.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/orderposition.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/PageLoadAni.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/pdistyle.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/popupBox.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/prospectStyle.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/ratesMasterStyle.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/scotsdomestic.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/scotsexport.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/Site1.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/slideShow1.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/StyleSheet1.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/TinyStyle.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/ui.jqgrid-bootstrap.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Styles/uploadify.css">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="thumbnails.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="TypeCostForAF.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="typegrademaster.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="typegradeselector.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="typeHardnessRange.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="typeupgrade.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="TyreDrawingApprove.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="TyreDrawingDownload.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="TyreDrawingEdit.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="TyreDrawingRequest.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="TyreDrawingUpload.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="TyreDwgAllocation.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="TyreDwgPopup.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="tyreimageedit.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="TyreIMAGESDOWNLOAD.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="tyreimagesentry.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="tyreImagethumbnails.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="TyreImgPopup.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="uploadfailureimage.ashx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="uploadstencilimage.ashx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="userprivilege.aspx">
+      <publishTime>06/04/2024 10:39:15</publishTime>
+    </File>
+    <File Include="UserValidation.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/18/2024 14:55:25</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="WebForm3.aspx">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="XML/ClaimObservationList.xml">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="XML/CustDetailsList.xml">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="XML/exportcontent.xml">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="XML/notuserlevel.xml">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="XML/shippingmethod.xml">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="XML/TyreDwgDetails.xml">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+    <File Include="XML/UserLevelMenu.xml">
+      <publishTime>06/04/2024 10:39:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

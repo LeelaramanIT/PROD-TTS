@@ -1,0 +1,76 @@
+H:\D LOCATION\Projects\TTS\TTS\bin\TTS.dll
+H:\D LOCATION\Projects\TTS\TTS\bin\TTS.pdb
+H:\D LOCATION\Projects\TTS\TTS\bin\Ionic.Zip.dll
+H:\D LOCATION\Projects\TTS\TTS\bin\itextsharp.dll
+H:\D LOCATION\Projects\TTS\TTS\obj\Debug\TTS.dll
+H:\D LOCATION\Projects\TTS\TTS\obj\Debug\TTS.pdb
+D:\NATHAN\Projects\TTS\TTS\bin\TTS.dll
+D:\NATHAN\Projects\TTS\TTS\bin\TTS.pdb
+D:\NATHAN\Projects\TTS\TTS\obj\Debug\TTS.dll
+D:\NATHAN\Projects\TTS\TTS\obj\Debug\TTS.pdb
+D:\Projects\TTS\TTS\bin\TTS.dll
+D:\Projects\TTS\TTS\bin\TTS.pdb
+D:\Projects\TTS\TTS\obj\Debug\TTS.dll
+D:\Projects\TTS\TTS\obj\Debug\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\TTS.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.pdb
+D:\Projects\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\bin\TTS.dll
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\bin\TTS.pdb
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\obj\Debug\TTS.dll
+F:\backup(23-12-2021)-for invoice&safetyDisplay\TTS\TTS\obj\Debug\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ClosedXML.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\DocumentFormat.OpenXml.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ExcelNumberFormat.dll
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ClosedXML.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ClosedXML.xml
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\DocumentFormat.OpenXml.xml
+D:\Projects\WEB PROJECTS\TTS\TTS\bin\ExcelNumberFormat.xml
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\TTS.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ClosedXML.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\DocumentFormat.OpenXml.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ExcelNumberFormat.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ClosedXML.pdb
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ClosedXML.xml
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\DocumentFormat.OpenXml.xml
+D:\Projects\WEB PROJECTS\TTS_old\TTS\bin\ExcelNumberFormat.xml
+D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.dll
+D:\Projects\WEB PROJECTS\TTS_old\TTS\obj\Debug\TTS.pdb
+D:\Projects\WEB PROJECTS\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\obj\Debug\TTS.csproj.AssemblyReference.cache
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\obj\Debug\TTS.csproj.CoreCompileInputs.cache
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\obj\Debug\TTS.dll
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\obj\Debug\TTS.pdb
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\TTS.dll
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\TTS.pdb
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\ClosedXML.dll
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\DocumentFormat.OpenXml.dll
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\ExcelNumberFormat.dll
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\ClosedXML.pdb
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\ClosedXML.xml
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\DocumentFormat.OpenXml.xml
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\ExcelNumberFormat.xml
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\Newtonsoft.Json.dll
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\obj\Debug\TTS.csproj.Up2Date
+C:\Users\kannan\source\repos\SIPLPROJECTS\TTS\TTS\bin\TTS.dll.config
+D:\NetworkFiles\TTS\TTS\bin\TTS.dll.config
+D:\NetworkFiles\TTS\TTS\bin\TTS.dll
+D:\NetworkFiles\TTS\TTS\bin\TTS.pdb
+D:\NetworkFiles\TTS\TTS\bin\ClosedXML.dll
+D:\NetworkFiles\TTS\TTS\bin\DocumentFormat.OpenXml.dll
+D:\NetworkFiles\TTS\TTS\bin\ExcelNumberFormat.dll
+D:\NetworkFiles\TTS\TTS\bin\Newtonsoft.Json.dll
+D:\NetworkFiles\TTS\TTS\bin\ClosedXML.pdb
+D:\NetworkFiles\TTS\TTS\bin\ClosedXML.xml
+D:\NetworkFiles\TTS\TTS\bin\DocumentFormat.OpenXml.xml
+D:\NetworkFiles\TTS\TTS\bin\ExcelNumberFormat.xml
+D:\NetworkFiles\TTS\TTS\obj\Debug\TTS.csproj.AssemblyReference.cache
+D:\NetworkFiles\TTS\TTS\obj\Debug\TTS.csproj.CoreCompileInputs.cache
+D:\NetworkFiles\TTS\TTS\obj\Debug\TTS.csproj.Up2Date
+D:\NetworkFiles\TTS\TTS\obj\Debug\TTS.dll
+D:\NetworkFiles\TTS\TTS\obj\Debug\TTS.pdb
